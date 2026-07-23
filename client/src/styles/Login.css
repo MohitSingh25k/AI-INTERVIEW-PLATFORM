@@ -17,7 +17,9 @@
 }
 
 .login-card h2 {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  color: #222;
+  front-weight: bold;
 }
 
 .login-card p {
