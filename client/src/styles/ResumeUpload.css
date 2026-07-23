@@ -1,0 +1,48 @@
+.resume-upload {
+  background: white;
+  margin-top: 30px;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+.resume-upload h2 {
+  margin-bottom: 10px;
+  color: #1e293b;
+}
+
+.resume-upload p {
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.resume-upload input[type="file"] {
+  width: 100%;
+  padding: 12px;
+  border: 2px dashed #3b82f6;
+  border-radius: 10px;
+  background: #f8fbff;
+  cursor: pointer;
+}
+
+.file-name {
+  margin-top: 15px;
+  font-weight: bold;
+  color: #2563eb;
+}
+
+.upload-btn {
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.upload-btn:hover {
+  background: #1d4ed8;
+}
